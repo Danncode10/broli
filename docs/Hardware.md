@@ -15,3 +15,16 @@
 | QC 3.0 Fast Charger Wall Adapter 18W 3A | [Shopee Link](https://shopee.ph/product/199207775/11748825497?gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAM_NxfHGgeczprZR4Q8tPoOfvwhbtN63JlB369xGJA1mbqBWuW2sVWxQjSJT_xT_mbG0_W5kumedB_GGTjqmNpcGhlcnRleHTEbgAAAAxL96EFDr2Okvm0CGE5_KiL9DNiafRkji-V9gflhWebh31IxzB2fqQ4gsaoT5vWqUXU7wHhdwutWlbQ9Vg9dHfq6qdyg3HNQKzrVtcKVL3Cwj707z_dL_WczA3aS3l0VhtnH7XSKw0i12di&gad_source=1&gad_campaignid=22896286926&gbraid=0AAAAADPpU9AKg87u6vUE15uQhw3cX7bQI&gclid=CjwKCAjwmozTBhAeEiwAkEGZzpShjs7VishebQvoFYQNPdA-svselOcSbFS8dgGacLoMHsGYyZrKmxoCz54QAvD_BwE) | ₱199 | 1 |
 | 7-Inch HDMI Touchscreen Monitor for Raspberry Pi | [Shopee Link](https://shopee.ph/product/1064163589/14398065281?gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAM_NxfHGgeczprZR4Q8tPoOfvwhbtN63JlB369xGJA1mbqBWuW2sVWxQjSJT_xT_mbG0_W5kumedB_GGTjqmNpcGhlcnRleHTEcAAAAAyJNdvJHjWiwaFHcMpA3icVsreorqTAQOLu-xvoj49gPfwyrfK2rxN7amTH4ZFHWBwC0h-PDlWYdfUb6WB9fmAbGznY_6_NRNhXcwMSYI9x3j1QTF-8zCLdZlP1MsMO1Altf-gIBs_fB1r-AyM&gad_source=1&gad_campaignid=9730548619&gbraid=0AAAAADPpU9D9DnVk9MR6pnSIyUqbgqGyd&gclid=CjwKCAjwmozTBhAeEiwAkEGZzqceieUsU5hqfhuOLw22MXViFui1Jv_w0MZKnRcLhn4R5Gp2Ia1EdBoChcsQAvD_BwE) | ₱2,150 | 1 |
 | PETG Filament (3kg) | [Shopee Link](https://shopee.ph/%E3%80%90Factory-Sale%E3%80%91-3D-Printer-Filament-PLA-PETG-ABS-TPU-1KG-1.75-mm-Filament-3D-Printing-Material-i.463047195.29520885911?xptdk=d50c2451-02f5-4b6e-b6be-7705e34e3d3d) | ₱395 | 3 |
+
+---
+
+## 💰 Total Estimated Cost
+
+> **₱31,058 – ₱31,458**
+
+- Fixed-price items total: **₱30,158**
+- Webcam (₱600–₱800) × 1
+- Audio Input/Output (₱300–₱500) × 1
+- ESP32 price not yet listed — **excluded from total**
+
+> _Prices may vary depending on supplier and availability._

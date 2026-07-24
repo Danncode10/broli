@@ -1,4 +1,6 @@
-# BROLI Core Features
+# Title: BROLI: An Autonomous Navigation and Cleaning Robot Featuring Natural Language Processing and Environmental Monitoring for Libraries and Offices
+
+## BROLI Core Features
 
 ## 1. Core Navigation and Autonomous Mobility
 
